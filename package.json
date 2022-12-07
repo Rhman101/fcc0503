@@ -7,10 +7,10 @@
 		"start": "env-cmd -f ./.env nodemon server.js"
 	},
 	"dependencies": {
-		"body-parser": "^1.19.0",
+		"body-parser": "^1.20.1",
 		"cors": "2.8.1",
 		"env-cmd": "^10.0.1",
-		"express": "^5.0.0-alpha.7",
+		"express": "^5.0.0-beta.1",
 		"mongodb": "3.4.1",
 		"mongoose": "5.8.6",
 		"nodemon": "2.0.2"
